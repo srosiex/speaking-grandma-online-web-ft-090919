@@ -21,7 +21,7 @@ end
 if phrase != phrase.upcase
   return "HUH?! SPEAK UP, SONNY!"
 else phrase == phrase.upcase
-  return ""
+  return "NO, NOT SINCE 1938!"
 end
 
 end
