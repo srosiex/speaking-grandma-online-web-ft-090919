@@ -5,7 +5,7 @@ def speak_to_grandma(phrase)
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 if phrase == phrase.downcase
-  return "HUH! SPEAK UP, SONNY!"
+  return "HUH?! SPEAK UP, SONNY!"
 end
 
 # If you shout, she can hear you (or at least she thinks so)
