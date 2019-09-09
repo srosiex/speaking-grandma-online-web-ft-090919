@@ -12,6 +12,6 @@ def speak_to_grandma
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 if phrase == "I LOVE YOU GRANDMA!"
-  puts "I love you too pumpkin!".upcase
+  puts "I LOVE YOU TOO PUMPKIN!"
 
 end
